@@ -1,0 +1,1 @@
+This is to test how the bash console works with eclipse, hopefully this will come up when I open the eclipse project
